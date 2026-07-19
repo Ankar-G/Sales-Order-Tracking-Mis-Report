@@ -69,6 +69,11 @@ The objective of this project is to automate sales reporting and provide managem
 
 ## Screenshots
 
+### Sales Target
+
+![Executive Dashboard](https://github.com/Ankar-G/Sales-Order-Tracking-Mis-Report/blob/main/Screenshots/Target.png.png)
+
+
 ### Sales Summary
 
 *(Add Screenshot)*
@@ -80,11 +85,11 @@ The objective of this project is to automate sales reporting and provide managem
 
 ### Channel Wise Sales
 
-*(Add Screenshot)*
+![Executive Dashboard](https://github.com/Ankar-G/Sales-Order-Tracking-Mis-Report/blob/main/Screenshots/Channel_Wise_Sales.png.png)
 
 ### Product / Category Wise Sales
 
-*(Add Screenshot)*
+![Executive Dashboard](https://github.com/Ankar-G/Sales-Order-Tracking-Mis-Report/blob/main/Screenshots/Product_Category_Wise_Sales.png.png)
 
 ## Author
 
