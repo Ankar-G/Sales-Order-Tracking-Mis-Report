@@ -71,12 +71,13 @@ The objective of this project is to automate sales reporting and provide managem
 
 ### Sales Target
 
-![Executive Dashboard](https://github.com/Ankar-G/Sales-Order-Tracking-Mis-Report/blob/main/Screenshots/Target.png.png)
+![Executive Dashboard](https://github.com/Ankar-G/Sales-Order-Tracking-Mis-Report/blob/main/Screenshots/Screenshot%202026-07-19%20122259.png)
 
 
 ### Sales Summary
 
-![Executive Dashboard](https://github.com/Ankar-G/Sales-Order-Tracking-Mis-Report/blob/main/Screenshots/Screenshot%202026-07-19%20122259.png)
+![Executive Dashboard](https://github.com/Ankar-G/Sales-Order-Tracking-Mis-Report/blob/main/Screenshots/Target.png.png)
+
 
 ### Region / Branch Wise Sales
 
