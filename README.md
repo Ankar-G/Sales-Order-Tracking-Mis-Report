@@ -75,7 +75,8 @@ The objective of this project is to automate sales reporting and provide managem
 
 ### Region / Branch Wise Sales
 
-*(Add Screenshot)*
+![Executive Dashboard](https://github.com/Ankar-G/Sales-Order-Tracking-Mis-Report/blob/main/Screenshots/Region_Branch_Wise_Sales.png.png)
+
 
 ### Channel Wise Sales
 
